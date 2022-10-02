@@ -64,7 +64,7 @@ jd | 4444
   * The UI includes a login form, the overall account balance, summary data and, on the right side, three available options to do:
     * Transfer money to other users
     * Request a loan from the bank
-    * Close the account
+    * Close the account (Can't login back until refresh)
   * The project uses Arrays, Numbers, Dates, Timers and Fake "log in" (<a href="#info">Login Info Here</a>)
 
 ### Built Using
