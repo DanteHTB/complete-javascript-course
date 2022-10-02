@@ -1,12 +1,10 @@
-<h2 align="center">Pig Game</h2>
+<h1 align="center">Pig Game</h1>
 
   <p align="center">
     <a href="https://pig-game-angi.netlify.app/"><strong>:point_right: Live Demo Here :point_left:</strong></a>
     <br />
     <br />
   </p>
-</div>
-
 
 <details>
   <summary>Table of Contents</summary>
@@ -20,8 +18,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#summary">Summary</a></li>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-using">Built Using</a></li>
       </ul>
     </li>
     <li><a href="#contact-me">Contact</a></li>
@@ -31,37 +28,43 @@
 <!-- Intro -->
 ## Intro
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-'To be added, testing'
+https://user-images.githubusercontent.com/43470248/193452263-f9a35f60-1618-4977-86c5-bbe1352f0bf5.mp4
 
 ### Rules
-
-'To be added, testing'
+&emsp; On a turn, a player rolls the die 🎲 repeatedly. The goal is to accumulate as many points as possible, adding up (__Hold__) the numbers rolled on the die 🎲. However, if a player rolls a 1, the player's turn is over and any points they have accumulated during this turn are forfeited. Rolling a 1 doesn't wipe out your entire score from previous turns, just the total earned during that particular roll.
+<br /> &emsp; A player has to choose to hold (stop rolling the die 🎲) if they do not want to take a chance of rolling a 1 and losing all of their points from this turn. If the player chooses to hold, all of the points rolled during that turn are added to his or her score.
+<br /> &emsp; When a player reaches a total of 100 points, that player is declared the winner and the game ends.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Pig-Game-Flowchart](https://github.com/DanteHTB/complete-javascript-course/blob/master/07-Pig-Game/starter/pig-game-flowchart.png?raw=true)
+
+### **Flowchart of the Project**
+* ![#dfc686](https://via.placeholder.com/15/dfc686/dfc686.png) Yellow - The possible actions a user can take
+* ![#94bb80](https://via.placeholder.com/15/94bb80/94bb80.png) Green - Shows what happens as soon as one action is executed
+* ![#8ba6ce](https://via.placeholder.com/15/8ba6ce/8ba6ce.png) Blue - `If-Else` where we check for a certain condition
+* ![#c58280](https://via.placeholder.com/15/c58280/c58280.png) Red - Finish Line :)
 
 ### Summary
 
-.....
+* **First Player to Reach 100 Points Wins the Game**
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+  * Use `Roll Dice` to get a value from 1 to 6
+  * The values from 2 to 6 gets added in the `Current` block and you can roll the dice again
+  * Using the `Hold` button will add the `Current` score to your `Total Score`, preventing resets from 1 rolls
+  * If you roll 1 on the dice, you lose all of your `Current` points and ends your turn
+  * You can use `New Game` to reset the game instead of refreshing your page :) 
 
-### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+### Built Using
+
+* [![HTML][HTML.com]][HTML-url]
+* [![CSS][CSS3.com]][CSS-url]
+* [![JavaScript][JavaScript.com]][JavaScript-url]
+* [![DOM-Manipulation][DOM.com]][DOM-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,19 +76,11 @@
   <a href="https://www.linkedin.com/in/a-angelescu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[HTML.com]: https://img.shields.io/badge/html-e44d26?style=for-the-badge&logo=html5&logoColor=white
+[HTML-url]: https://www.html.com/
+[CSS3.com]: https://img.shields.io/badge/css-0070ba?style=for-the-badge&logo=css3&logoColor=white
+[CSS-url]: https://www.css3.com/
+[JavaScript.com]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[JavaScript-url]: https://www.javascript.com/
+[DOM.com]: https://img.shields.io/badge/dom_manipulation-ae780e?style=for-the-badge
+[DOM-url]: https://www.freecodecamp.org/news/javascript-dom-manipulation/
