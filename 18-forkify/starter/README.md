@@ -47,7 +47,7 @@ As a user, you can also bookmark recipes and check them out later. Other than th
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![GMN-Flowchart](https://github.com/DanteHTB/complete-javascript-course/blob/master/18-forkify/starter/forkify-flowchart.png?raw=true)
+![GMN-Flowchart](https://github.com/darirak/complete-javascript-course/blob/master/18-forkify/starter/forkify-flowchart.png?raw=true)
 
 ### **Flowchart of the Project**
 * ![#dfc686](https://via.placeholder.com/15/dfc686/dfc686.png) Yellow - The possible actions a user can take
@@ -84,8 +84,8 @@ As a user, you can also bookmark recipes and check them out later. Other than th
 
 <p>
 <div align="center">
-  <a href="https://alcaandesign.com/"><img src="https://img.shields.io/badge/-My%20Portfolio%20Website-blueviolet?style=for-the-badge" alt="Alcaan Design - My Portfolio Website" /></a>
-  <a href="https://www.linkedin.com/in/a-angelescu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://darirak.ro/"><img src="https://img.shields.io/badge/-My%20Portfolio%20Website-blueviolet?style=for-the-badge" alt="Alcaan Design - My Portfolio Website" /></a>
+  <a href="https://www.linkedin.com/in/darirak/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
 [HTML.com]: https://img.shields.io/badge/html-e44d26?style=for-the-badge&logo=html5&logoColor=white
