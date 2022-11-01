@@ -1,4 +1,12 @@
-# Course Material and FAQ for my Complete JavaScript Course
+# My Projects (redirects for this repo) :notebook::
+<li><a href="https://github.com/darirak/complete-javascript-course/tree/master/18-forkify/starter" target="_blank">Forkify App</a></li>
+<li><a href="https://github.com/darirak/complete-javascript-course/tree/master/13-Advanced-DOM-Bankist/starter" target="_blank">Bankist Site</a></li>
+<li><a href="https://github.com/darirak/complete-javascript-course/tree/master/11-Arrays-Bankist/starter">Bankist App</a></li>
+<li><a href="https://github.com/darirak/complete-javascript-course/tree/master/07-Pig-Game/starter" target="_blank">Pig Game</a></li>
+<li><a href="https://github.com/darirak/complete-javascript-course/tree/master/05-Guess-My-Number/starter">Guess My Number</a></li>
+
+# DISCLAIMER: The course was made by Jonas Schmedtmann. </br> This repository showcases applications that I've been able to build following his teachings. Links above.
+## Course Material and FAQ for my Complete JavaScript Course
 
 This branch of the repo contains starter files and final code for all sections and projects of the course, **exactly as shown in the videos**.
 
